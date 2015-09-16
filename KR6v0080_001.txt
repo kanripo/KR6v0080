@@ -1,0 +1,35 @@
+#-*- mode: mandoku-view; -*-
+#+DATE: 2015-08-31 05:58:36.945877
+#+TITLE: 地藏菩薩十齋日
+#+PROPERTY: CBETA_ID W07n0064d
+#+PROPERTY: ID KR6v0080
+#+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064d
+#+PROPERTY: VOL 07
+#+PROPERTY: BASEEDITION W
+#+PROPERTY: WITNESS CBETA
+#+PROPERTY: LASTPB <pb:KR6v0080_W_000-0353a>¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6v0080_W_001-0353a> ¶¶¶¶
+#+PROPERTY: JUAN 1
+¶
+¶
+
+錄文四¶
+¶
+
+每月十齋日：¶
+
+  
+  * 月一日，童子下，此日齋者，不墮鐵樹地獄；¶¶
+  * 八日，太子下，此日齋者，不墮鐵犁地獄；¶
+  * 十四日，司命下，此日齋者，不墮鑊湯地獄；¶
+  * 十五日，五道大神下，此日齋者不墮鋸解地獄；¶¶
+  * 十八日，閻羅王下，此日齋者，不墮糞屎地獄；
+<pb:KR6v0080_W_001-0354a>¶
+  * 二十三日，天大將軍下，此日齋者，不墮銅柱¶地獄；¶
+  * 二十四日，察命下，此日齋者，不墮黑暗地獄；¶
+  * 二十八日，太山府君下，此日齋者，不墮鐵床地¶獄；¶
+  * 二十九日，四天王下，此日齋者，不墮鐵鈸地¶獄；¶
+  * 三十日，梵天王下，此日齋者，不墮鐵輪地獄。¶
+¶
+
+〔錄文完〕
