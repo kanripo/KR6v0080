@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:36.945877
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 地藏菩薩十齋日
 #+PROPERTY: CBETA_ID W07n0064d
 #+PROPERTY: ID KR6v0080
@@ -13,7 +13,7 @@
 ¶
 ¶
 
-錄文四¶
+* 錄文四¶
 ¶
 
 每月十齋日：¶
